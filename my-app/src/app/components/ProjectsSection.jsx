@@ -11,8 +11,8 @@ const projectsData = [
     description: "📝 Blog de noticias sobre o mundo React.",
     image: "/images/projects/ignews.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/gustavogk/ignews",
+    previewUrl: "",
   },
   {
     id: 2,
@@ -20,9 +20,9 @@ const projectsData = [
     description:
       "💜 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz ",
     image: "/images/projects/happy.png",
-    tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    tag: ["All", "Web", "Mobile"],
+    gitUrl: "https://github.com/gustavogk/next-level-week-3",
+    previewUrl: "",
   },
   {
     id: 3,
@@ -31,8 +31,8 @@ const projectsData = [
       "💻 Dashgo trata-se de um dashboard de controle de usuários, como principal diferencial utiliza a biblioteca ChakraUI para construção das interfaces.",
     image: "/images/projects/homeDashgo.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/gustavogk/dashgo",
+    previewUrl: "",
   },
   {
     id: 4,
@@ -41,8 +41,8 @@ const projectsData = [
       "💬 O Letmeask é um site de salas de perguntas e respostas. Criado utilizando React e Firebase.",
     image: "/images/projects/letmeask.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/gustavogk/letmeask",
+    previewUrl: "https://letmeask-af084.web.app",
   },
   {
     id: 5,
@@ -50,8 +50,8 @@ const projectsData = [
     description: "💰 App de controle financeiro",
     image: "/images/projects/dtmoney.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/gustavogk/dtmoney",
+    previewUrl: "",
   },
 ];
 
