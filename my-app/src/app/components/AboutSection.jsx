@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useTransition } from "react";
 import Image from "next/image";
 import TabButton from "./TabButton";
@@ -73,7 +74,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            👋 Hello! I'm Gustavo Carvalho, a software developer passionate
+            👋 Hello! I&apos;m Gustavo Carvalho, a software developer passionate
             about creating solutions that stand out for their precision and
             performance, with a strong interest and experience in front-end
             development. Although my career was more focused on this area, I
