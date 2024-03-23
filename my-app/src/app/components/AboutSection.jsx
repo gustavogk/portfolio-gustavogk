@@ -1,4 +1,3 @@
-"use client";
 import React, { useState, useTransition } from "react";
 import Image from "next/image";
 import TabButton from "./TabButton";
@@ -26,7 +25,7 @@ const TAB_DATA = [
     content: (
       <ul>
         <li>
-          <p>Bachelor's Degree in Computer Science</p>
+          <p>Bachelor&apos;s Degree in Computer Science</p>
           <p>Federal University of Piauí - UFPI</p>
         </li>
       </ul>
