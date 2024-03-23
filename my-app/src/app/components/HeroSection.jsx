@@ -16,11 +16,11 @@ const HeroSection = () => {
               sequence={[
                 "Gustavo",
                 1000,
-                "Software Dev",
+                "Software Developer",
                 1000,
                 "Web Developer",
                 1000,
-                "Front-End Dev",
+                "Front-End Developer",
                 1000,
               ]}
               wrapper="span"
@@ -29,11 +29,16 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget
-            ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.
-            Pellentesque habitant morbi tristique senectus et netus et malesuada
-            fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor
-            et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing
+            👋 Olá! Sou Gustavo Carvalho, um desenvolvedor de software
+            apaixonado por criar soluções que se destacam pela sua precisão e
+            desempenho, com um forte interesse e experiência no desenvolvimento
+            front-end. Embora minha trajetória tenha sido mais focada nessa
+            área, também contribuí significativamente para projetos de back-end.
+            Sou graduado em Ciência da Computação pela UFPI (Universidade
+            Federal do Piauí), tendo concluído minha graduação em março de 2024.
+            Valorizo muito o aprendizado contínuo e pretendo seguir investindo
+            em minha carreira, inclusive com a realização de uma pós-graduação
+            em breve.
           </p>
           <div>
             <button className="px-6 py-3 w-full rounded-full sm:w-fit mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">

@@ -1,4 +1,4 @@
-import Image from "next/image";
+"use client";
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
 import AboutSection from "./components/AboutSection";
@@ -14,7 +14,6 @@ export default function Home() {
         <HeroSection />
         <AboutSection />
         <ProjectsSection />
-        <EmailSection />
       </div>
       <Footer />
     </main>
